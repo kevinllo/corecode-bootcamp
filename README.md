@@ -1,9 +1,27 @@
-# Software Fundamentals 2022 <a href="https://www.core-code.io/">
-![alt text](https://uploads-ssl.webflow.com/5eb2f56932c3562feab232e3/5f73550d00249e7e96c9f3de_Logo.png 'corecodeio')
-</a>
+# Software Fundamentals 💻 
+
+
+# <center>Hi I'm Kevin Grande🚀 <@kevinllo> 
+</center>
+
+
+
+
+
+
+
+
 ```js
-const bootcamp = (challenge)=> results; 
-bootcamp('week 1');  //gets executed
+const bootcamp = (challenge)=> {
+  if(!challenge) fecth('api/corecode/challenges/')
+  return results;
+}; 
+
+bootcamp('week 1');
 ```
   - Week 1
+    - Day 1 
+    - Day 2
+    - Day 3
+    - Day 4
 
