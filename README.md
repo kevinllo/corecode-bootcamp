@@ -1,7 +1,7 @@
-# Software Fundamentals 💻 
+# Software Fundamentals 💻 | Core Code
 
 
-# <center>Hi I'm Kevin Grande🚀 <@kevinllo> 
+# <center>Hi I'm Kevin Grande🚀 <@kevinllo>  
 </center>
 
 
