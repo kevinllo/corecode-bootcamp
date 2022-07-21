@@ -22,6 +22,6 @@ bootcamp('week 1');
   - Week 1
     - Day 1 
     - Day 2
-    - Day 3
+    - [Day 3](/src/challenges/week01)
     - Day 4
 
