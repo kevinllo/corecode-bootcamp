@@ -53,7 +53,7 @@ The proccess consists of taking the number that is required and divided by 2. Ea
 
 ---
 
-## **Date of birth in the matrix**:
+## **My date of birth in binary**:
 
 _Input_ : 29/03/2002 <br>
 _Output_ : 11101/11/11111010010
