@@ -49,7 +49,7 @@ The proccess consists of taking the number that is required and divided by 2. Ea
 |   3/2    |    1     |     1     |
 |   1/2    |    0     |     1     |
 
-### **Our second binary number is 11111010010** <br>
+### **Our final binary number is 11111010010** <br>
 
 ---
 
