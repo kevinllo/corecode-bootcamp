@@ -1,8 +1,8 @@
-### <center>Javascript Behaviour</center>
+<h1 align="center">Javascript - Week 3</h1>
 
-#### Monday (Challenges)
-#### Tuesday (Challenges)
-#### Wednesday (Challenges)
+### Monday (Challenges)
+### Tuesday (Challenges)
+### Wednesday (Challenges)
 
 1. Simple Pig Latin 
 ```js
@@ -36,4 +36,4 @@ console.log(pigIt("Pig latin is cool")); // igPay atinlay siay oolcay
 console.log(pigIt("Hello world !")); // elloHay orldway !
 
 ```
-#### Thursday (Challenges)
+### Thursday (Challenges)
