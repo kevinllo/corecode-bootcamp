@@ -19,9 +19,20 @@ const bootcamp = (challenge)=> {
 
 bootcamp('week 1');
 ```
-  - Week 1
-    - Day 1 
-    - Day 2
-    - Day 3
-    - Day 4
+### Week 1
+- Monday
+- Tuesday
+- [Wednesday](/src/challenges/week01)
+- Thursday
 
+### Week 2
+ - Monday
+ - Tuesday
+ - [Wednesday](/src/challenges/week01)
+ - Thursday
+    
+### Week 3
+- Monday
+- Tuesday
+- [Wednesday](/src/challenges/week03)
+- Thursday
