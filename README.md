@@ -27,9 +27,9 @@ bootcamp('week 1');
 
 ### Week 2
  - Monday
- - Tuesday
- - [Wednesday](/src/challenges/week01)
- - Thursday
+ - [Tuesday](/src/challenges/week02/tuesday)
+ - [Wednesday](/src/challenges/week02/wednesday)
+ - [Thursday](/src/challenges/week02/thursday)
     
 ### Week 3
 - Monday
