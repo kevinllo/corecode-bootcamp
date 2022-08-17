@@ -32,8 +32,6 @@ function pigIt(str) {
 
   return wordCompleted.trim();
 }
-console.log(pigIt("Pig latin is cool")); // igPay atinlay siay oolcay
-console.log(pigIt("Hello world !")); // elloHay orldway !
 
 ```
 ### Thursday (Challenges)
