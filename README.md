@@ -26,13 +26,13 @@ bootcamp('week 4');
 - Thursday
 
 ### Week 2
- - Monday
+ - Monday 
  - [Tuesday](/src/challenges/week02/tuesday)
  - [Wednesday](/src/challenges/week02/wednesday)
  - [Thursday](/src/challenges/week02/thursday)
     
 ### Week 3
-- Monday
-- Tuesday
-- [Wednesday](/src/challenges/week03)
-- Thursday
+- [Monday](/src/challenges/week03/monday)
+- [Tuesday](/src/challenges/week03/tuesday)
+- [Wednesday](/src/challenges/week03/wednesday)
+- [Thursday](/src/challenges/week03/thursday)
