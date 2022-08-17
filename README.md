@@ -17,7 +17,7 @@ const bootcamp = (challenge)=> {
   return results;
 }; 
 
-bootcamp('week 1');
+bootcamp('week 4');
 ```
 ### Week 1
 - Monday
