@@ -36,7 +36,7 @@ bootcamp("week 4");
 
 ### Week 4
 
-- [Javascript ES6 features](./src/challenges/week04/Readme.md);
+- [Javascript ES6 features](./src/challenges/week04/Readme.md)
 
 ### Week 5
 
