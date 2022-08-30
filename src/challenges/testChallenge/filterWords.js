@@ -4,13 +4,11 @@ function filterWords(words, chars) {
   for (let i = 0; i < words.length; i++) {
     let current = words[i];
     for (let j = 0; j < chars.length; j++) {
-      let lastCheck = "";
-      if (current.includes(chars[j]) && lastCheck !== current) {
+      if (!current.includes(chars[j])) {
         filter.push(current);
       }
-      lastCheck = current;
     }
   }
   return filter;
 }
-console.log(filterWords(["cat", "bt", "hat", "tree"], "atach"));
+console.log(filterWords(["the", "dog", "got", "a", "bone"], "ae"));
