@@ -15,10 +15,10 @@ bootcamp("week 4");
 
 ### Week 1
 
-- Monday
-- Tuesday
-- [Wednesday](/src/challenges/week01)
-- Thursday
+- Monday (No challenge)
+- [Tuesday](/src/challenges/week01/tuesday/Readme.md)
+- [Wednesday](/src/challenges/week01/wednesday/Readme.md)
+- [Thursday](/src/challenges/week01/thursday/Readme.md)
 
 ### Week 2
 

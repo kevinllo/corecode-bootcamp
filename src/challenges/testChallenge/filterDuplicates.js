@@ -7,10 +7,14 @@ console.log(filterD([7, 6, 4, 3, 3, 4, 9]));
 
 function filterA(numbers) {
   const uniqueNumbers = {};
+  const result = [];
   for (let items of numbers) {
-    if (!uniqueNumbers[items]) uniqueNumbers[items] = items;
+    if (!uniqueNumbers[items]) {
+      uniqueNumbers[items] = items;
+      result.push(items);
+    }
   }
-  return Object.values(uniqueNumbers);
+  return result;
 }
 
 console.log(filterA([7, 6, 4, 3, 3, 4, 9]));
