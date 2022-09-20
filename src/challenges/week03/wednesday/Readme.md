@@ -1,31 +1,14 @@
-### <center>Challenges
+# <center> Today's Challenge
+## Valid Parenthesis
+### Description 
+#### Solution
 
-#### Simple Pig Latin
+## Convert String to Camel Case
+### Description 
+#### Solution
 
-```js
-function pigIt(str) {
-  str = str.split(" ");
-  let wordCompleted = "";
-  let punctuation = {
-    "!": "!",
-    "?": "?",
-    "}": "}",
-    "{": "{",
-    "(": "(",
-    ")": ")",
-    "[": "[",
-    "]": "]",
-  };
-  for (let i = 0; i < str.length; i++) {
-    let firstWord = str[i].substring(1, 0);
-    let mergedWord = `${str[i].substring(1, str[i].length)}${firstWord}ay`;
-    if (!punctuation[mergedWord[0]]) {
-      wordCompleted += mergedWord + " ";
-    } else {
-      wordCompleted += mergedWord.substring(1, 0);
-    }
-  }
 
-  return wordCompleted.trim();
-};
-```
+## Unique in Order
+### Description 
+#### Solution
+
