@@ -33,8 +33,7 @@ function foldArray(array, runs) {
   let times = 0;
 
   while (times < runs) {
-    let front = 0,
-      back = array.length - 1;
+    let front = 0, back = array.length - 1;
     if (array.length % 2 === 0) {
       for (let i = 0; i < (array.length - 1) / 2; i++) {
         fold.push(array[front] + array[back]);
