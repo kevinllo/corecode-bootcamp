@@ -28,9 +28,10 @@ Fold 2-times:
 
 ```js
 function foldArray(array, runs) {
-  let fold = [], foldFinal = [];
+  let fold = [],
+    foldFinal = [];
   let times = 0;
-  
+
   while (times < runs) {
     let front = 0,
       back = array.length - 1;
@@ -69,13 +70,27 @@ You want to create secret messages which can be deciphered by the Decipher this!
 
 Your message is a string containing space separated words.
 You need to encrypt each word in the message using the following rules:
-   - The first letter must be converted to its ASCII code.
 
-   - The second letter must be switched with the last letter.
+- The first letter must be converted to its ASCII code.
+
+- The second letter must be switched with the last letter.
 
 Keepin' it simple: There are no special characters in the input.
 
 #### Solution
-```js
 
+```js
+var encryptThis = function (text) {
+  text = text
+    .split(" ")
+    .map((element) => {
+      if (element.length === 1) return element.charCodeAt(0);
+      if (element.length === 2) return `${element.charCodeAt(0)}${element[1]}`;
+      return `${element.charCodeAt(0)}${
+        element[element.length - 1]
+      }${element.slice(2, element.length - 1)}${element[1]}`;
+    })
+    .join(" ");
+  return text;
+};
 ```
